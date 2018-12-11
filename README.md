@@ -1,6 +1,15 @@
 # Boxplot
+# An investigation into the history of the Boxplot in Jupyter
 
-Summary of the history of the box plot.
+This repository contains primarliy, a Jupyter notebook with an investigation into the history of the boxplot.
+
+To run this notebook, you must have [Jupyter](https://jupyter.org/) installed on your machine.
+You can install this using the [Anaconda](https://www.anaconda.com/) Python distribution.
+
+The notebok itself is called "Boxplot.pynb"
+
+Summary of the history of the box plot
+
 A box plot is a visual represenation of the statistical five number summary a the data set that is given.
 This includes
 1.Minimum
