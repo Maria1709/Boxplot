@@ -17,3 +17,5 @@ Example of a boxplot
 ![image](https://user-images.githubusercontent.com/35726074/49804141-be2f2200-fd49-11e8-8c37-dfbbfabb97fd.png)
 
 
+The five number summary the sample minimum, the lower quartile or the first quartile, the median, the upper quartile or the third quartile and the sample maximum.
+In the boxplot we draw a box from the first quartile and the third quartile, a vertical line goes throught the box at the median, then the whiskers go from each quartile to the minimum or maximum.
