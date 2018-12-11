@@ -35,4 +35,6 @@ The boxplot is used when we have large amounts of data that need organising and 
 Explanation of the term Percentile
 A percentile is a number where a certain percentage of scores fall below that number. For example if your result is 67 out of 90 in a test, well that has no real meaning if you dont know what percentile you fall into. But if you know you are in the 90th percentile then you know you scored higher than 90 percent of the people who took the test. In personal experience percentile is used a lot in childrens developmental charts to show simply where your child is at towards the rest of the children in that paricular age range and so on giving a good indicator to how your child is developing towards the percentige of other children in regards to weight and height and so on.
 
+# Definition 1 of percentile
 
+The nth percentile is the lowest score that is greater than a certain percentage (“n”) of the scores. In this example, our n is 25, so we’re looking for the lowest score that is greater than 25%. 
