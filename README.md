@@ -29,3 +29,10 @@ A sample of 101010 boxes of raisins has these weights (in grams): 252525, 282828
 
 
 The boxplot is used when we have large amounts of data that need organising and it visualises the outlier values. An example of situations it could be used in is in measuring weather and temperatures where the dataset would contain all the weather data inclduing the temperature from all the weather stations in a partcular country during a specific time period. They would use teh average daily temperature caculated over a 24 hour period in celsius. The boxplot would containg the the following data properties, Dimension which would measure both date and year ensuring date comes first is very important. The second data property is Measure to measure the temperature degrees in celsius. The boxplot will show a visualisation of the daily temperture measurements, in the mean temperature order, which is illustrated by the middle line in each box. The box then stretches form the first quartile to the third quartile adn the whiskers stretch 1.5 inter quartile ranges. There are also other values that lie outside the whiskers which are call outlier values.
+
+
+
+Explanation of the term Percentile
+A percentile is a number where a certain percentage of scores fall below that number. For example if your result is 67 out of 90 in a test, well that has no real meaning if you dont know what percentile you fall into. But if you know you are in the 90th percentile then you know you scored higher than 90 percent of the people who took the test. In personal experience percentile is used a lot in childrens developmental charts to show simply where your child is at towards the rest of the children in that paricular age range and so on giving a good indicator to how your child is developing towards the percentige of other children in regards to weight and height and so on.
+
+
