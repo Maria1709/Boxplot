@@ -38,3 +38,16 @@ A percentile is a number where a certain percentage of scores fall below that nu
 # Definition 1 of percentile
 
 The nth percentile is the lowest score that is greater than a certain percentage (“n”) of the scores. In this example, our n is 25, so we’re looking for the lowest score that is greater than 25%. 
+
+Definition 2: The nth percentile is the smallest score that is greater than or equal to a certain percentage of the scores. To rephrase this, it’s the percentage of data that falls at or below a certain observation. This is the definition used in AP statistics. In this example, the 25th percentile is the score that’s greater or equal to 25% of the scores.
+
+They may seem very similar, but they can lead to big differences in results, although they are both the 25th percentile rank. Take the following list of test scores, ordered by rank: Score 30
+33
+43
+53
+56
+67
+68
+72
+
+
