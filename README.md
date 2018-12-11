@@ -50,4 +50,6 @@ They may seem very similar, but they can lead to big differences in results, alt
 68
 72
 
+## Defintion 3
+Is a weighted mean of the percentiles from the first two definitions.
 
