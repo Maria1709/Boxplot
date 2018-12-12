@@ -6,7 +6,7 @@ This repository contains primarliy, a Jupyter notebook with an investigation int
 To run this notebook, you must have [Jupyter](https://jupyter.org/) installed on your machine.
 You can install this using the [Anaconda](https://www.anaconda.com/) Python distribution.
 
-The notebok itself is called "Boxplot.pynb"
+The notebok itself is called "Boxplot.pynb".
 
 Summary of the history of the box plot
 
