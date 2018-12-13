@@ -26,7 +26,7 @@ Example of a boxplot
 ![image](https://user-images.githubusercontent.com/35726074/49804141-be2f2200-fd49-11e8-8c37-dfbbfabb97fd.png)
 
 References:
-boxplots
+
 https://matplotlib.org/gallery/pyplots/boxplot_demo_pyplot.html?highlight=boxplot
 
 http://onlinestatbook.com/2/graphing_distributions/boxplots.html
